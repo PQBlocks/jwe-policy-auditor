@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-jwe-audit"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/jwe-policy-auditor"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - post-quantum
+  - pqc
+  - jwe
+  - jose
+  - jwt
+  - cnsa
+  - fips-203
+  - audit
+  - compliance
+abstract: "High-throughput JSON Web Encryption (JWE) cryptographic policy auditor enforcing CNSA 2.0 and NIST FIPS 203 PQC standards."
